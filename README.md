@@ -1,3 +1,6 @@
+
+<img align="center" src="https://raw.githubusercontent.com/fmendezy/Calculadora-de-Promedios-IPLACEX/main/assets/1.png" alt="fmendezy" />
+
 # CALCULADORA DE PROMEDIOS IPLACEX
 Calcula tu promedio actual en base a la ponderación correcta del instituto con esta herramienta disponible para PC Windows, utilizando el conocimiento adquirido en Programación I (U1) programada en C#
 
