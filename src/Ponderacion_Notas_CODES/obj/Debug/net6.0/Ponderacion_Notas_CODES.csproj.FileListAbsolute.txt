@@ -1,0 +1,14 @@
+C:\Users\fmy\source\repos\Ponderacion_Notas_CODES\bin\Debug\net6.0\Ponderacion_Notas_CODES.exe
+C:\Users\fmy\source\repos\Ponderacion_Notas_CODES\bin\Debug\net6.0\Ponderacion_Notas_CODES.deps.json
+C:\Users\fmy\source\repos\Ponderacion_Notas_CODES\bin\Debug\net6.0\Ponderacion_Notas_CODES.runtimeconfig.json
+C:\Users\fmy\source\repos\Ponderacion_Notas_CODES\bin\Debug\net6.0\Ponderacion_Notas_CODES.dll
+C:\Users\fmy\source\repos\Ponderacion_Notas_CODES\bin\Debug\net6.0\Ponderacion_Notas_CODES.pdb
+C:\Users\fmy\source\repos\Ponderacion_Notas_CODES\obj\Debug\net6.0\Ponderacion_Notas_CODES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fmy\source\repos\Ponderacion_Notas_CODES\obj\Debug\net6.0\Ponderacion_Notas_CODES.AssemblyInfoInputs.cache
+C:\Users\fmy\source\repos\Ponderacion_Notas_CODES\obj\Debug\net6.0\Ponderacion_Notas_CODES.AssemblyInfo.cs
+C:\Users\fmy\source\repos\Ponderacion_Notas_CODES\obj\Debug\net6.0\Ponderacion_Notas_CODES.csproj.CoreCompileInputs.cache
+C:\Users\fmy\source\repos\Ponderacion_Notas_CODES\obj\Debug\net6.0\Ponderacion_Notas_CODES.dll
+C:\Users\fmy\source\repos\Ponderacion_Notas_CODES\obj\Debug\net6.0\refint\Ponderacion_Notas_CODES.dll
+C:\Users\fmy\source\repos\Ponderacion_Notas_CODES\obj\Debug\net6.0\Ponderacion_Notas_CODES.pdb
+C:\Users\fmy\source\repos\Ponderacion_Notas_CODES\obj\Debug\net6.0\Ponderacion_Notas_CODES.genruntimeconfig.cache
+C:\Users\fmy\source\repos\Ponderacion_Notas_CODES\obj\Debug\net6.0\ref\Ponderacion_Notas_CODES.dll

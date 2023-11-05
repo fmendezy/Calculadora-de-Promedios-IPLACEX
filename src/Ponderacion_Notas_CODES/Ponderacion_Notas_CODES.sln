@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ponderacion_Notas_CODES", "Ponderacion_Notas_CODES.csproj", "{1930EE08-7986-40F6-882B-D2AD3BD47646}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorCODES", "..\InstaladorCODES\InstaladorCODES.vdproj", "{219BD45C-9470-42F5-9851-F3D9FF141912}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1930EE08-7986-40F6-882B-D2AD3BD47646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1930EE08-7986-40F6-882B-D2AD3BD47646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1930EE08-7986-40F6-882B-D2AD3BD47646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1930EE08-7986-40F6-882B-D2AD3BD47646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219BD45C-9470-42F5-9851-F3D9FF141912}.Debug|Any CPU.ActiveCfg = Debug
+		{219BD45C-9470-42F5-9851-F3D9FF141912}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {439E34DE-218B-452E-A873-39F181B484C0}
+	EndGlobalSection
+EndGlobal
